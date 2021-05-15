@@ -17,6 +17,6 @@ Vacation Py -> Provides recommendations to the top hotels based on city search c
 Make sure you have the following:
 
 - Google API key with access to google maps and google places.
-    Add this to VacationPy/api_keys.py
+    - Add this to VacationPy/api_keys.py
 - Open Weather API access https://openweathermap.org/api
-    Add this to VacationPy/api_keys.py
+    - Add this to WeatherPy/api_keys.py
